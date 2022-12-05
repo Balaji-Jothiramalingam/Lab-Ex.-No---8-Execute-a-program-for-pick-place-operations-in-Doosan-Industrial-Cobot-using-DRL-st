@@ -40,16 +40,14 @@ Procedure:
 
 
 ## Program 
-// Roll no:
-
-//Name:
-MoveJ ................
+![img](https://user-images.githubusercontent.com/74660507/175454530-6bf50d16-5541-4add-a617-3bcdc03e51ea.jpeg)
+![img](https://user-images.githubusercontent.com/75234588/175456403-f50b99af-1145-49b6-85eb-cad7ac4f4395.jpeg)
 
 ## output : 
-
+![img](https://user-images.githubusercontent.com/74660507/175454442-e723be1f-1c43-4c07-97d7-835787d1e83d.jpeg)
 
 ## Results: 
-
+Thus, program for pick and place in doosan industrial Collaborative Robot using DRL Studio Software has been successfully completed
 
 
 
